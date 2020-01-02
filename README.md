@@ -1,6 +1,6 @@
 # screenreader
 
-🔑💻 Universal screenreader made in python using wxPython library
+🔑💻 Universal screensaver made in python using wxPython library
 
 ## Installation
 
